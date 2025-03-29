@@ -1,0 +1,28 @@
+<BookShelf>
+    <Book>
+        <title>Java Fundamentals</title>
+        <publishedYear>2015</publishedYear>
+        <numberOfPages>450</numberOfPages>
+        <authors>
+            <author>James Smith</author>
+            <author>Emma Johnson</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Python Basics</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>500</numberOfPages>
+        <authors>
+            <author>Alice Brown</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Machine Learning</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>600</numberOfPages>
+        <authors>
+            <author>David Wilson</author>
+            <author>Sophia Martinez</author>
+        </authors>
+    </Book>
+</BookShelf>

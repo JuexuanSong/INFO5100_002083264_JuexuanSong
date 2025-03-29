@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Java Fundamentals",
+        "publishedYear": 2015,
+        "numberOfPages": 450,
+        "authors": ["James Smith", "Emma Johnson"]
+    },
+    {
+        "title": "Python Basics",
+        "publishedYear": 2018,
+        "numberOfPages": 500,
+        "authors": ["Alice Brown"]
+    },
+    {
+        "title": "Machine Learning",
+        "publishedYear": 2020,
+        "numberOfPages": 600,
+        "authors": ["David Wilson", "Sophia Martinez"]
+    }
+]
